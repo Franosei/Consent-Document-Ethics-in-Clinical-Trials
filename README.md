@@ -76,7 +76,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 Please cite the accompanying study if you use this work:
 
-> Osei, F. (2025). *Statistical Inference and Natural Language Analysis of Consent Document Ethics in Clinical*. Journal of Bioethical Inquiry (forthcoming).  
+> Osei, F. (2025). *Statistical Inference and Natural Language Analysis of Consent Document Ethics in Clinical Trials*. Journal of Bioethical Inquiry (forthcoming).  
 > https://github.com/Franosei/Consent-Document-Ethics-in-Clinical-Trials
 
 ## Contact
